@@ -1,11 +1,24 @@
 # My Web Portfolio
 
-Welcome to my personal web portfolio repository! 
+Welcome to my personal web portfolio repository! 👋
 
-This is a work in progress. I will be updating this space soon to showcase my projects, skills, and experience as a web developer.
+I'm building this space to showcase my projects, skills, and experience as a web developer. It's a work in progress, and I'll be adding to it as I go.
 
-### Status
-Currently in the planning and development phase.
+## Status
 
-### Contact
-*   GitHub: [@michandhercode](https://github.com/michandhercode)
+🚧 **In development** — currently in the planning and design phase.
+
+## Planned Sections
+
+- [ ] About me
+- [ ] Projects
+- [ ] Skills & tools
+- [ ] Contact
+
+## Tech Stack
+
+_Coming soon._
+
+## Contact
+
+- GitHub: [@michandhercode](https://github.com/michandhercode)
